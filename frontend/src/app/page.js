@@ -28,7 +28,7 @@ export default function HomePage() {
           <div className="p-4">
             <div className="text-center ">
               <Image 
-                src="/logo1.png" 
+                src="/logo3.png" 
                 alt="Pahuja Vaishno Dhaba" 
                 width={400}
                 height={200}
