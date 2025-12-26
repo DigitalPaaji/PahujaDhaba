@@ -1,0 +1,46 @@
+{
+  "breakfast": {
+    "parathas": [
+      { "id": 1, "name": "Aloo Paratha", "price": 50, "description": "Stuffed with spiced potatoes", "veg": true },
+      { "id": 2, "name": "Onion Paratha", "price": 45, "description": "Stuffed with finely chopped onions", "veg": true },
+      { "id": 3, "name": "Aloo-Onion Mix Paratha", "price": 55, "description": "Potato and onion stuffing", "veg": true },
+      { "id": 4, "name": "Gobi Paratha", "price": 60, "description": "Cauliflower stuffed paratha", "veg": true },
+      { "id": 5, "name": "Paneer Paratha", "price": 70, "description": "Cottage cheese stuffed paratha", "veg": true },
+      { "id": 6, "name": "Methi Paratha", "price": 50, "description": "Fresh fenugreek leaves paratha", "veg": true }
+    ],
+    "others": [
+      { "id": 7, "name": "Chapati (2 pieces)", "price": 30, "description": "Freshly made whole wheat bread", "veg": true },
+      { "id": 8, "name": "Curd", "price": 40, "description": "Fresh homemade curd", "veg": true },
+      { "id": 9, "name": "Lassi", "price": 50, "description": "Sweet/Salted traditional yogurt drink", "veg": true },
+      { "id": 10, "name": "Cold Drinks", "price": 35, "description": "Assorted soft drinks", "veg": true },
+      { "id": 11, "name": "Namkeen", "price": 25, "description": "Assorted Indian savory snacks", "veg": true }
+    ]
+  },
+  "lunch": {
+    "sabji": [
+      { "id": 12, "name": "Rajma", "price": 80, "description": "Red kidney beans curry", "veg": true },
+      { "id": 13, "name": "White Chana", "price": 75, "description": "Chickpea curry", "veg": true },
+      { "id": 14, "name": "Black Chana", "price": 75, "description": "Black chickpea curry", "veg": true },
+      { "id": 15, "name": "Aloo Matar", "price": 70, "description": "Potato and peas curry", "veg": true },
+      { "id": 16, "name": "Dal Makhani", "price": 85, "description": "Creamy black lentils", "veg": true },
+      { "id": 17, "name": "Kadhi Pakoda", "price": 80, "description": "Yogurt curry with fried dumplings", "veg": true },
+      { "id": 18, "name": "Mix Veg", "price": 75, "description": "Assorted vegetables in gravy", "veg": true }
+    ],
+    "rice": [
+      { "id": 19, "name": "Steamed Rice", "price": 60, "description": "Plain basmati rice", "veg": true },
+      { "id": 20, "name": "Jeera Rice", "price": 70, "description": "Cumin flavored rice", "veg": true }
+    ]
+  },
+  "dinner": {
+    "combos": [
+      { "id": 21, "name": "Rajma Rice Combo", "price": 120, "description": "Rajma with rice, salad, and papad", "veg": true },
+      { "id": 22, "name": "Chana Rice Combo", "price": 115, "description": "Chana curry with rice, salad, and papad", "veg": true },
+      { "id": 23, "name": "Dal Rice Combo", "price": 110, "description": "Dal with rice, salad, and papad", "veg": true },
+      { "id": 24, "name": "Thali Special", "price": 150, "description": "2 Sabji, Rice, Chapati, Salad, Sweet, Papad", "veg": true }
+    ],
+    "rice": [
+      { "id": 25, "name": "Fried Rice", "price": 90, "description": "Vegetable fried rice", "veg": true },
+      { "id": 26, "name": "Curd Rice", "price": 65, "description": "South Indian style curd rice", "veg": true }
+    ]
+  }
+}
