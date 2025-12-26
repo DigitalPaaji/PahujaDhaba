@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "id": "35f23007-6844-4975-b485-00ef384bef24",
+      "name": "Rajma Chawal",
+      "description": "",
+      "price": 50,
+      "category": "breakfast",
+      "available": true,
+      "type": "veg",
+      "image": null,
+      "rating": 4.5,
+      "createdAt": "2025-12-26T05:55:33.185Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "breakfast",
+      "name": "Breakfast",
+      "icon": "🍳"
+    },
+    {
+      "id": "lunch",
+      "name": "Lunch",
+      "icon": "🍛"
+    },
+    {
+      "id": "dinner",
+      "name": "Dinner",
+      "icon": "🍽️"
+    },
+    {
+      "id": "snacks",
+      "name": "Snacks",
+      "icon": "🍟"
+    },
+    {
+      "id": "beverages",
+      "name": "Beverages",
+      "icon": "🥤"
+    }
+  ]
+}
